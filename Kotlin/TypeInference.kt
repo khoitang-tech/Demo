@@ -1,9 +1,15 @@
-fun main() {
-    val message = "Hello, Kotlin!"
-    fun add(a: Int, b: Int) = a + b
-    val numbers = listOf(1, 2, 3, 4, 5)
+package demo
 
-    println(message)
-    println(add(2, 3))
-    println(numbers)
+fun main() {
+    // Khai báo có chỉ rõ kiểu
+    val list1: ArrayList<String> = ArrayList<String>()
+    
+    // Type inference: Kotlin tự suy ra kiểu
+    val list2 = ArrayList<String>()
+
+    list1.add("Java")
+    list2.add("Kotlin")
+
+    println(list1)
+    println(list2)
 }
