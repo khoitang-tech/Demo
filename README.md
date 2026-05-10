@@ -85,11 +85,12 @@ This project includes example implementations in both Java and Kotlin to demonst
 
 ## 👨‍💻 Contributors
 
+* Nguyen Trung Kien (886)
+* Nguyen Trung Kien (887)
 * Ha Phan Khanh Duy
 * Nguyen Doan Duc Hieu
 * Nguyen The Khanh
 * Tang Anh Khoi
-* Nguyen Trung Kien
 * Pham Hao Kiet
 * Tran Thi Thanh Thao
 * Ho Thi Phuong Thuy
